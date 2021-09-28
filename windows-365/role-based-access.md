@@ -32,6 +32,11 @@ ms.collection: M365-identity-device-management
 
 Role-based access control (RBAC) helps you manage who has access to your organization's resources and what they can do with those resources. You can assign roles for your Cloud PCs by using the [Microsoft Endpoint Manager admin center](https://go.microsoft.com/fwlink/?linkid=2109431).
 
+To create, edit, or assign roles, your account must have one of the following permissions in Azure AD:
+**- Global Administrator**
+**- Windows 365 Administrator**
+**- Intune Administrator**
+
 For more information, see [Role-based access control (RBAC) with Microsoft Intune](/mem/intune/fundamentals/role-based-access-control).
 
 ## Cloud PC built-in roles
